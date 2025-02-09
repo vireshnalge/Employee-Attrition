@@ -1,20 +1,15 @@
-Employee Attrition Prediction
+# 💫 About Me:
+Software Engineer with expertise in data science, analytics, and automation testing. Skilled in Python, SQL, Power BI, machine learning, and automation tools, leveraging data-driven insights to optimize decision-making and business strategies.<br><br>Employee Attrition Prediction<br>This project aims to predict employee attrition using machine learning algorithms, enabling organizations to identify potential turnover risks and take proactive measures. By analyzing employee data, the model helps in understanding key factors influencing attrition.<br><br>Project Overview<br>Employee attrition is a critical challenge for organizations, impacting workforce stability and operational efficiency. This project leverages an Employee Attrition dataset to perform Exploratory Data Analysis (EDA) and apply various machine learning models for binary classification (attrition vs. retention). The models are evaluated using key performance metrics, with XGBoost delivering the highest accuracy.<br><br>Key Features<br>Exploratory Data Analysis (EDA): Identified patterns, correlations, and outliers in employee data.<br>Feature Engineering: Transformed and optimized dataset to enhance model performance.<br>Machine Learning Models: Implemented Logistic Regression, Decision Trees, Random Forest, and XGBoost.<br>Evaluation Metrics: Assessed model performance using accuracy, precision, recall, and F1-score, with XGBoost achieving the best results.<br>Algorithms Used<br>✔ Logistic Regression<br>✔ Decision Tree<br>✔ Random Forest<br>✔ XGBoost (Best Accuracy)<br><br>This project provides data-driven insights to help organizations improve employee retention strategies and reduce turnover rates. 🚀
 
-This project focuses on predicting employee attrition using machine learning algorithms. By analyzing patterns in employee data,aim to identify which employees are more likely to leave the organization.
-The goal is to help organizations take proactive measures to reduce attrition rates.
 
-Project Overview:-
-Employee attrition is a significant issue faced by many organizations.
-This project uses an Employee Attrition dataset to perform Exploratory Data Analysis (EDA) and apply various machine learning algorithms to predict whether an employee is likely to leave (binary classification).
-The results are evaluated based on accuracy and other performance metrics, with XGBoost providing the highest accuracy.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vireshnalge&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vireshnalge&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vireshnalge&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Key Features:-
-Exploratory Data Analysis (EDA): A thorough analysis of the dataset to uncover patterns, correlations, and outliers.
-Feature Engineering: Transforming the dataset to improve the predictive performance of machine learning models.
-Machine Learning Models: Applied various algorithms such as Logistic Regression, Decision Trees, Random Forest,and XGBoost to predict employee attrition.
-Evaluation Metrics: Used accuracy, precision, recall, and F1-score to evaluate the model performance, with XGBoost achieving the best accuracy.
-Algorithms Used
-Logistic Regression
-Decision Tree
-Random Forest
-XGBoost (Best Accuracy)
+---
+[![](https://visitcount.itsvg.in/api?id=vireshnalge&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
